@@ -1,3 +1,2 @@
 I want to learn git
-This line was added by another guys
-
+this is the line added by the first guy
